@@ -1,4 +1,5 @@
-![Cover](https://github.com/DurandSacha/DurandSacha/blob/master/cover.jpg)
+![Cover](https://github.com/DurandSacha/DurandSacha/blob/master/LinkedinCoverSachaDurand.png)
+
 ### Sacha Durand 👋
 
 Cela fait longtemps que je suis passionné par la technologie du web. J’ai donc chercher a m’instruire afin de construire une carrière à partir de ma passion . Le développement back-end est ma spécialité.
