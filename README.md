@@ -2,12 +2,12 @@
 
 ### Sacha Durand 👋
 
-Cela fait longtemps que je suis passionné par la technologie du web. J’ai donc chercher a m’instruire afin de construire une carrière à partir de ma passion . Le développement back-end est ma spécialité.
+I have been passionate about web technology for a long time. So I sought to educate myself in order to build a career out of my passion. Back-end development is my specialty.
 
 <!--
 **DurandSacha/DurandSacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on private project, and open-source softwares
 - 🌱 I’m currently learning python ( flask ) and .NET
