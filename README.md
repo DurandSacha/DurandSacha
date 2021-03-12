@@ -7,13 +7,13 @@ I have been passionate about web technology for a long time. So I sought to educ
 
 ## Stack Technique  
   
-|Intégration  |Frontend  |Backend        |Serveur  |Cloud & Annexe       |Data          |Déploiement   |CMS            |
-|--           |--        |--             |--       |--                   |--            |--            |--             |
-|HTML         |JavaScript|PHP            |Debian   |Amazon Web Services  |PostgreSQL    |Heroku        |Wordpress      |
-|CSS          |next.js   |Python         |Ubuntu   |Docker               |MySQL         |Github Actions|Shopify        |
-|Bootstrap    |Jest      |Composer       |shell    |Parse Server         |MongoDB       |Déploiement   |ERP Dolibarr   |
-|Sass         |Webpack   |Symfony        |Nginx    |Google Play Console  |WorkBench     |GitlabCI      |               |
-|Twig         |React.js  |ORM - Doctrine |Apache   |CloudFlare           |Firebase      |Ansible       |               |
+|Intégration  |Frontend  |Backend  |Serveur  |Cloud & Annexe  |Data          |Déploiement   |CMS          |
+|--           |--        |--       |--       |--              |--            |--            |--           |
+|HTML         |JavaScript|PHP      |Debian   |AWS             |PostgreSQL    |Heroku        |Wordpress    |
+|CSS          |next.js   |Python   |Ubuntu   |Docker          |MySQL         |Github Actions|Shopify      |
+|Bootstrap    |Jest      |Composer |shell    |Parse Server    |MongoDB       |Déploiement   |Dolibarr ERP |
+|Sass         |Webpack   |Symfony  |Nginx    |Google Console  |WorkBench     |GitlabCI      |             |
+|Twig         |React.js  |Doctrine |Apache   |CloudFlare      |Firebase      |Ansible       |             |
 
 
 <!--
