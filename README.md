@@ -5,7 +5,7 @@
 I have been passionate about web technology for a long time. So I sought to educate myself in order to build a career out of my passion. Back-end development is my specialty.
 
 
-## Stack Technique  
+## technical Stack 
   
 |Intégration  |Frontend  |Backend  |Serveur  |Cloud & Annexe  |Data          |Déploiement   |CMS          |
 |--           |--        |--       |--       |--              |--            |--            |--           |
