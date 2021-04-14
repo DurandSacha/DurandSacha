@@ -13,7 +13,7 @@ I have been passionate about web technology for a long time. So I sought to educ
 |CSS          |next.js   |Python   |Ubuntu   |Docker          |MySQL         |Github Actions|Shopify      |
 |Bootstrap    |Jest      |Composer |shell    |Parse Server    |MongoDB       |GitlabCI      |Dolibarr ERP |
 |Sass         |Webpack   |Symfony  |Nginx    |Google Console  |WorkBench     |Ansible       |             |
-|Twig         |React.js  |Doctrine |Apache   |CloudFlare      |Firebase      |              |             |
+|Twig         |React.js  |Laravel  |Apache   |CloudFlare      |Firebase      |              |             |
 
 
 <!--
