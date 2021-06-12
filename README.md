@@ -1,4 +1,4 @@
-![Cover](https://github.com/DurandSacha/DurandSacha/blob/main/img/LinkedinCoverSachaDurand.png)
+![Cover](https://github.com/DurandSacha/DurandSacha/blob/main/img/banner-sacha-durand.png)
 
 ### Sacha Durand 👋
 
