@@ -11,7 +11,7 @@ I have been passionate about web technology for a long time. So I sought to educ
 |--           |--        |--       |--       |--              |--            |--            |--           |
 |HTML         |JavaScript|PHP      |Debian   |AWS             |PostgreSQL    |Heroku        |Wordpress    |
 |CSS          |next.js   |Python   |Ubuntu   |Docker          |MySQL         |Github Actions|Shopify      |
-|Bootstrap    |Jest      |Composer |shell    |OVH cloud       |MongoDB       |GitlabCI      |Dolibarr ERP |
+|Bootstrap    |VueJS     |Composer |shell    |OVH cloud       |MongoDB       |GitlabCI      |Dolibarr ERP |
 |Sass         |Webpack   |Symfony  |Nginx    |Google Console  |WorkBench     |Ansible       |Prestashop   |
 |Twig         |React.js  |Laravel  |Apache   |CloudFlare      |Firebase      |FTP-SSH       |             |
 
